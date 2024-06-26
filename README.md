@@ -19,7 +19,7 @@
   <li>PHP</li>
   <li>HTML & CSS</li>
 	<p></p>
-	<p>and i also have some networking knowledge.</p>
+	<p>and i also have some network knowledge.</p>
 </div>
 
 <div>
